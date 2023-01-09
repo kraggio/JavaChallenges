@@ -41,3 +41,5 @@ let result;
 switch (operator) {
     case "+":
 }
+
+console.log(`${num1} ${operator} ${num2} = ${result}`);
